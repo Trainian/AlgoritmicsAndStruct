@@ -1,5 +1,4 @@
-		// if(word_counts >= size)
+		// if(!strcmp(EXIT, buffer))
 		// {
-		// 	size += SIZE;
-		// 	words = realloc(words, size * sizeof(char*));
+		// 	break;
 		// }
